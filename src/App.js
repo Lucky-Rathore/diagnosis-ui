@@ -1,9 +1,9 @@
 import React from 'react';
-import Paperbase from './Paperbase';
+import Home from './Home';
 
 function App() {
   return (
-    <Paperbase></Paperbase>
+    <Home/>
   );
 }
 
