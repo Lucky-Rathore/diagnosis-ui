@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Lucky-Rathore/diagnosis-ui/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Lucky-Rathore/diagnosis-ui/static/js/main.df20c0b9.chunk.js",
+    "main.js.map": "/Lucky-Rathore/diagnosis-ui/static/js/main.df20c0b9.chunk.js.map",
+    "runtime-main.js": "/Lucky-Rathore/diagnosis-ui/static/js/runtime-main.7e62aca4.js",
+    "runtime-main.js.map": "/Lucky-Rathore/diagnosis-ui/static/js/runtime-main.7e62aca4.js.map",
+    "static/js/2.418c2ed0.chunk.js": "/Lucky-Rathore/diagnosis-ui/static/js/2.418c2ed0.chunk.js",
+    "static/js/2.418c2ed0.chunk.js.map": "/Lucky-Rathore/diagnosis-ui/static/js/2.418c2ed0.chunk.js.map",
+    "index.html": "/Lucky-Rathore/diagnosis-ui/index.html",
+    "precache-manifest.d4a9f6b363b270c7eec92e3a9f8fe641.js": "/Lucky-Rathore/diagnosis-ui/precache-manifest.d4a9f6b363b270c7eec92e3a9f8fe641.js",
+    "service-worker.js": "/Lucky-Rathore/diagnosis-ui/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Lucky-Rathore/diagnosis-ui/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.418c2ed0.chunk.js.LICENSE.txt": "/Lucky-Rathore/diagnosis-ui/static/js/2.418c2ed0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e62aca4.js",
+    "static/js/2.418c2ed0.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.df20c0b9.chunk.js"
+  ]
+}
