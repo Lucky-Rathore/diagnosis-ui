@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "977e0efb4936933ee8e1b774274a964a",
+    "revision": "b961ef5084a51907a681dc5140f245e6",
     "url": "/diagnosis-ui/index.html"
   },
   {
-    "revision": "df68b11180cfd601d752",
+    "revision": "5ad8d3892d8d6b76393b",
     "url": "/diagnosis-ui/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diagnosis-ui/static/js/2.75114df1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df68b11180cfd601d752",
-    "url": "/diagnosis-ui/static/js/main.78e897a9.chunk.js"
+    "revision": "5ad8d3892d8d6b76393b",
+    "url": "/diagnosis-ui/static/js/main.4a8cb021.chunk.js"
   },
   {
     "revision": "ba26bbfc94d62a589071",
