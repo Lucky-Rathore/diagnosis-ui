@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/diagnosis-ui/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/diagnosis-ui/static/js/main.7d3ec6f4.chunk.js",
-    "main.js.map": "/diagnosis-ui/static/js/main.7d3ec6f4.chunk.js.map",
+    "main.js": "/diagnosis-ui/static/js/main.0195e3a0.chunk.js",
+    "main.js.map": "/diagnosis-ui/static/js/main.0195e3a0.chunk.js.map",
     "runtime-main.js": "/diagnosis-ui/static/js/runtime-main.9805daa3.js",
     "runtime-main.js.map": "/diagnosis-ui/static/js/runtime-main.9805daa3.js.map",
     "static/js/2.3909f83a.chunk.js": "/diagnosis-ui/static/js/2.3909f83a.chunk.js",
     "static/js/2.3909f83a.chunk.js.map": "/diagnosis-ui/static/js/2.3909f83a.chunk.js.map",
     "index.html": "/diagnosis-ui/index.html",
-    "precache-manifest.fefa7678939f22288dd06375b9328ac3.js": "/diagnosis-ui/precache-manifest.fefa7678939f22288dd06375b9328ac3.js",
+    "precache-manifest.adbab790bc804b563e56e77bdcfc3c99.js": "/diagnosis-ui/precache-manifest.adbab790bc804b563e56e77bdcfc3c99.js",
     "service-worker.js": "/diagnosis-ui/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/diagnosis-ui/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.3909f83a.chunk.js.LICENSE.txt": "/diagnosis-ui/static/js/2.3909f83a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9805daa3.js",
     "static/js/2.3909f83a.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.7d3ec6f4.chunk.js"
+    "static/js/main.0195e3a0.chunk.js"
   ]
 }
